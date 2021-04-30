@@ -1,0 +1,8 @@
+version: 4.3.0
+files:
+  - url: camunda-modeler-4.3.0-mac.dmg
+    sha512: Z2cKQcP4BwGwO8URjovlubkPi6pybzxFcJ8cS+dS6hjGNxpGiIBB9GRqV3AHi/C7EOLPwoGswTqYrreC8rSnBA==
+    size: 67101812
+path: camunda-modeler-4.3.0-mac.dmg
+sha512: Z2cKQcP4BwGwO8URjovlubkPi6pybzxFcJ8cS+dS6hjGNxpGiIBB9GRqV3AHi/C7EOLPwoGswTqYrreC8rSnBA==
+releaseDate: '2021-04-29T21:18:41.051Z'

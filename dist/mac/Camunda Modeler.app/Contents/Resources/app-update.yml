@@ -1,0 +1,4 @@
+owner: camunda
+repo: camunda-modeler
+provider: github
+updaterCacheDirName: camunda-modeler-updater
